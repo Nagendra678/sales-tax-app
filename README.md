@@ -19,5 +19,4 @@ This project is a solution to the Sales Tax assignment using Java 8 and Object-O
 2. Open in IntelliJ or any Java IDE
 3. Run `SalesTaxApp.java`
 +++++++++++++++++++++++++++++++++++++++++++++++++++
-BYY 
 
